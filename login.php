@@ -7,7 +7,7 @@
     <meta name="author" content="Dashboard">
     <meta name="keyword">
 
-    <title>Login To Admin</title>
+    <title>Login Citra Mart</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
