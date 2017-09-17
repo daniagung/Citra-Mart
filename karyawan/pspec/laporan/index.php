@@ -11,7 +11,7 @@
                   <div class="col-lg-12 main-chart">
 						<h3>Data Laporan
 							<a  style="padding-left:2pc;" href="fungsi/hapus/hapus.php?laporan=jual" onclick="javascript:return confirm('Data Laporan akan di Hapus ?');">
-								<button class="btn btn-danger">RESET</button>
+
 							</a>
 						</h3>
 						<?php if(isset($_GET['remove'])){?>
@@ -30,7 +30,7 @@
 										<td style="width:10%;"> Jumlah</td>
 										<td style="width:20%;"> Total</td>
 										<td> Kasir</td>
-										<td> Tanggal Input</td>
+										<td> Tanggal Masuk</td>
 									</tr>
 								</thead>
 								<tbody>

@@ -28,7 +28,7 @@
 						<?php }?>
 						<table>
 							<tr>
-								<td><button id="tombol-simpan" onclick="clickModals()" class="btn btn-primary"><i class="fa fa-plus"></i> Insert Data</button></td>
+								<td><button id="tombol-simpan" onclick="clickModals()" class="btn btn-primary"><i class="fa fa-plus"></i> Tambah Data</button></td>
 							</tr>
 						</table>
 						<br/>

@@ -15,7 +15,8 @@ $(document).ready(function () {
     /* ===== Theme Settings ===== */
 
     $(".open-close").on("click", function () {
-        body.toggleClass("show-sidebar");
+        body.toggleClass("show-sidebar").toggleClass("hide-sidebar");
+        $(".sidebar-head .open-close i").toggleClass("ti-menu");
     });
 
     /* ===== Open-Close Right Sidebar ===== */

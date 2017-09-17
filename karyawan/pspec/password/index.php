@@ -5,6 +5,8 @@ $hasil = $lihat->member_edit($id);
 <section id="main-content">
     <section class="wrapper">
         <div class="row">
+            <br>
+            <br>
             <div class="col-lg-12 main-chart">
 
                 <div class="col-sm-4">
@@ -58,7 +60,7 @@ $hasil = $lihat->member_edit($id);
                     </div>
                 </div>
             </div>
-            <div class="clearfix" style="padding-top:5%;"></div>
+            <div class="clearfix" style="padding-top:50%;"></div>
         </div>
         </div>
     </section>

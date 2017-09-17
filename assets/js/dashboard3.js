@@ -53,7 +53,6 @@ $(document).ready(function () {
         },
         low: 1,
         showPoint: true,
-        height: 260,
         fullWidth: true,
         plugins: [
     Chartist.plugins.tooltip()

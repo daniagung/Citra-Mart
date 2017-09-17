@@ -5,6 +5,8 @@ $hasil_profil = $lihat->member_edit($id);
 <aside>
     <div id="sidebar" class="nav-collapse ">
         <ul class="sidebar-menu" id="nav-accordion">
+            <br>
+            <br>
 
             <p class="centered"><a><img src="assets/img/user/<?php echo $hasil_profil['gambar']; ?>" class="img-circle"
                                         width="100" height="110"></a></p>
@@ -20,7 +22,7 @@ $hasil_profil = $lihat->member_edit($id);
 
             <li class="sub-menu">
                 <a href="javascript:;">
-                    <i class="fa fa-desktop"></i>
+                    <i class="fa fa-dollar"></i>
                     <span>Transaksi <span style="padding-left:2px;"> <i class="fa fa-angle-down"></i></span></span>
                 </a>
                 <ul class="sub">
@@ -31,7 +33,7 @@ $hasil_profil = $lihat->member_edit($id);
 
             <li class="sub-menu">
                 <a href="javascript:;">
-                    <i class="fa fa-desktop"></i>
+                    <i class="fa fa-home"></i>
                     <span>Gudang<span style="padding-left:2px;"> <i class="fa fa-angle-down"></i></span></span>
                 </a>
                 <ul class="sub">
@@ -54,4 +56,4 @@ $hasil_profil = $lihat->member_edit($id);
     </div>
 </aside>
 
-      
+
