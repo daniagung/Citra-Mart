@@ -25,15 +25,12 @@
 </head>
 <body>
 <!-- Preloader -->
-<div class="preloader">
-    <div class="cssload-speeding-wheel"></div>
-</div>
 
 <section id="wrapper" class="login-register">
     <div class="login-box login-sidebar">
         <div class="white-box">
             <form class="form-horizontal form-material" method="POST">
-                <a href="javascript:void(0)" class="text-center db"><img src="assets/plugins/images/admin-logo-dark.png" alt="Citra Mart" /><br/><img src="/assets/images/admin-text-dark.png" alt="Citra Mart" /></a>
+                <a href="javascript:void(0)" class="text-center db"><img src="../plugins/images/admin-logo-dark.png" alt="Citra Mart" /><br/><img src="/assets/images/admin-text-dark.png" alt="Citra Mart" /></a>
 
                 <div class="form-group m-t-40">
                     <div class="col-xs-12">
